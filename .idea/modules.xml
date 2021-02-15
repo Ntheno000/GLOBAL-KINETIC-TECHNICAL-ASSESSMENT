@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GLOBAL-KINETIC-TECHNICAL-ASSESSMENT.iml" filepath="$PROJECT_DIR$/.idea/GLOBAL-KINETIC-TECHNICAL-ASSESSMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mobile/Mobile.iml" filepath="$PROJECT_DIR$/Mobile/Mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
+    </modules>
+  </component>
+</project>

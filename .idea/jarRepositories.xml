@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="mulesoft" />
+      <option name="name" value="mulesoft" />
+      <option name="url" value="https://repository.mulesoft.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Releases" />
+      <option name="name" value="Releases" />
+      <option name="url" value="https://nexus:nexus@nexus.nednet.co.za/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Nedbank" />
+      <option name="name" value="Nedbank" />
+      <option name="url" value="https://nexus:nexus@nexus.nednet.co.za/repository/maven-nebank/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mvncentral" />
+      <option name="name" value="mvncentral" />
+      <option name="url" value="https://nexus:nexus@nexus.nednet.co.za/repository/maven-central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonatype" />
+      <option name="name" value="sonatype" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="smartbear" />
+      <option name="name" value="smartbear" />
+      <option name="url" value="https://rapi.tools.ops.smartbear.io/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Snapshots" />
+      <option name="name" value="Snapshots" />
+      <option name="url" value="https://nexus:nexus@nexus.nednet.co.za/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="NexusPublic" />
+      <option name="name" value="nexus_public" />
+      <option name="url" value="https://nexus:nexus@nexus.nednet.co.za/repository/maven-public/" />
+    </remote-repository>
+  </component>
+</project>
